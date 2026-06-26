@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<a href="https://portfolio.com">
+<a href="https://linkedin.com/in/lavakumar1729">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
