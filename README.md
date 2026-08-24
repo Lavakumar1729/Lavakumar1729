@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6D28D9,70:7C3AED,100:A855F7&text=Kusetti%20Lava%20Kumar&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Development%20Engineer%20%7C%20Backend%20%7C%20Data%20Engineering%20%7C%20AI&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6D28D9,70:7C3AED,100:A855F7&text=Kusetti%20Lava%20Kumar&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Development%20Engineer%20%7C%20Backend%20%7C%20Data%20%7C%20AI&descAlignY=58"/>
 
 </div>
 
