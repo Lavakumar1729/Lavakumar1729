@@ -1,9 +1,5 @@
 <!-- ========================================= -->
-
 <!--          GITHUB PROFILE README            -->
-
-<!--              PART 1 OF 3                  -->
-
 <!-- ========================================= -->
 
 <div align="center">
@@ -14,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Development+Engineer;Backend+Engineer;Data+Engineer;Azure+%7C+PySpark+%7C+Spring+Boot;Distributed+Systems+Enthusiast;Generative+AI+%7C+LLMs+%7C+RAG;Building+Scalable+Enterprise+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Development+Engineer+%40+Optum;Backend+%26+Distributed+Systems;Spring+Boot+%7C+.NET+%7C+Java+%7C+Python;Azure+Data+Factory+%7C+Databricks+%7C+PySpark;Generative+AI+%7C+LLMs+%7C+RAG+%7C+Multi-Agent+Systems;LeetCode+Knight+%7C+Max+Rating+2032"/>
 
 </div>
 
@@ -22,21 +18,16 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/NIT%20Silchar-B.Tech-5B21B6?style=for-the-badge\&logo=academia\&logoColor=white)
-
+![](https://img.shields.io/badge/NIT%20Silchar-B.Tech%20ECE-5B21B6?style=for-the-badge&logo=academia&logoColor=white)
 ![](https://img.shields.io/badge/Software%20Development%20Engineer-Optum-4F46E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/Hyderabad-India-7C3AED?style=for-the-badge\&logo=googlemaps\&logoColor=white)
+![](https://img.shields.io/badge/Hyderabad-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
+![](https://img.shields.io/badge/LeetCode-Knight%20%7C%202032-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 </div>
 
 <br>
 
 <div align="center">
-
-<a href="https://linkedin.com/in/lavakumar1729">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="https://linkedin.com/in/lavakumar1729">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -56,8 +47,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Lavakumar1729\&style=for-the-badge\&color=6D28D9)
-
+![](https://komarev.com/ghpvc/?username=Lavakumar1729&style=for-the-badge&color=6D28D9)
 
 </div>
 
@@ -71,44 +61,35 @@ I enjoy designing software that is **scalable**, **maintainable**, and **perform
 
 My work combines **backend engineering**, **data engineering**, and **Generative AI**, enabling intelligent enterprise solutions powered by modern cloud technologies.
 
+Outside of work I build **Generative AI systems** (RAG pipelines, multi-agent orchestration) and practice **data structures and algorithms**.
+
 ### Engineering Interests
 
-* Backend Engineering
-* Distributed Systems
-* Cloud Computing
-* Data Engineering
-* Microservices Architecture
-* System Design
-* Event Driven Systems
-* Performance Optimization
-* Large Language Models
-* Retrieval-Augmented Generation (RAG)
-* Enterprise AI Applications
-* Kubernetes & Cloud Native Development
+* Backend Engineering & System Design
+* Distributed Systems & Microservices
+* Event-Driven Architecture
+* Data Engineering & ETL
+* Database Optimization
+* LLMs, RAG & Multi-Agent Systems
+* Kubernetes & Cloud-Native Development
 
 ---
 
 # Open To
 
-✔ Software Development Engineer II
+✔ Software Development Engineer II (Backend)
 
-✔ Backend Engineering
-
-✔ Platform Engineering
+✔ Distributed Systems & Platform Engineering
 
 ✔ Data Engineering
 
-✔ Distributed Systems
-
 ✔ AI Engineering
 
-✔ Open Source Collaboration
-
-✔ High Impact Product Teams
-
-✔ Enterprise Cloud Development
+✔ High-Impact Product Teams
 
 ---
+
+
 
 # Tech Stack
 
@@ -116,75 +97,59 @@ My work combines **backend engineering**, **data engineering**, and **Generative
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cs,sql"/>
+<img src="https://skillicons.dev/icons?i=java,python,cs"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Frontend
+## Backend & Architecture
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<img src="https://skillicons.dev/icons?i=spring,dotnet"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microservices-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event_Driven_Architecture-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design_Patterns-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-5B21B6?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Backend & APIs
+## Data & Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs"/>
-
-</div>
-
----
-
-## Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=postgres,kafka"/>
 
 </div>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Delta_Lake-0A5FFF?style=for-the-badge"/>
-
-</div>
-
----
-
-## Cloud
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Azure_Databricks-EA4335?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/PySpark-F37626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Databricks-EA4335?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## DevOps & Tooling
+## Cloud & DevOps
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,grafana"/>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,githubactions,grafana"/>
 
 </div>
 
@@ -195,35 +160,33 @@ My work combines **backend engineering**, **data engineering**, and **Generative
 <div align="center">
 
 <img src="https://img.shields.io/badge/LangChain-6D28D9?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/LangGraph-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pydantic-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Azure_OpenAI-4F46E5?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Vector_Databases-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-6D28D9?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# AI / ML Expertise
+# GenAI Work
 
-| Domain                         | Proficiency | Details                                            |
-| ------------------------------ | ----------- | -------------------------------------------------- |
-| Generative AI                  | ██████████  | Production-ready enterprise AI applications        |
-| Large Language Models          | ██████████  | Azure OpenAI, prompt engineering, orchestration    |
-| Retrieval Augmented Generation | ██████████  | Enterprise document intelligence systems           |
-| LangChain                      | ██████████  | Chains, retrievers, memory, document pipelines     |
-| Prompt Engineering             | █████████   | Optimized enterprise prompt workflows              |
-| Azure OpenAI                   | █████████   | Secure enterprise AI deployments                   |
-| Embeddings                     | █████████   | Semantic chunking and similarity search            |
-| Vector Search                  | █████████   | Chroma DB and semantic retrieval                   |
-| Document Intelligence          | ██████████  | PDF parsing and enterprise document automation     |
-| Healthcare AI                  | ██████████  | Clinical document analysis and knowledge retrieval |
+| Area                          | What I've built                                                         |
+| ----------------------------- | ----------------------------------------------------------------------- |
+| Retrieval-Augmented Generation | Healthcare PDF Q&A with semantic chunking, Azure embeddings and Pinecone |
+| Multi-Agent Systems           | LangGraph state-machine orchestration with a ReAct-based execution engine |
+| Structured Outputs            | Pydantic schema contracts for agent I/O and validation                   |
+| Enterprise AI at Work         | AI-driven chart validation, medical coding and grounded chat on ISHA     |
+
+---
+
+# Achievements
+
+* 🏅 Solved **600+ coding problems** across LeetCode, GeeksforGeeks and HackerRank
+* ⚔️ **LeetCode Knight** badge with a maximum contest rating of **2032**
+* 💎 **Diamond Recognition** at the 2025 Optum H&CCS Hackathon, with the project selected for the final round
 
 ---
 
@@ -240,6 +203,5 @@ My work combines **backend engineering**, **data engineering**, and **Generative
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:7C3AED&height=2&section=footer"/>
-
 
 </div>
